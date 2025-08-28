@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# React/TypeScript 前端專案常用忽略項
+build/
+.env
+.vscode/
+.idea/
