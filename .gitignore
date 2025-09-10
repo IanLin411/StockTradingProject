@@ -367,3 +367,7 @@ build/
 .env
 .vscode/
 .idea/
+
+# .NET Core 機密設定檔
+appsettings.Development.json
+launchSettings.json
